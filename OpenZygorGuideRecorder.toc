@@ -1,0 +1,16 @@
+## Interface: 120100
+## Title: Open Zygor Guide Recorder
+## Notes: Records questing actions and exports a Zygor Guides Viewer compatible guide skeleton.
+## Author: Open Zygor Guide Recorder Project
+## Version: 0.1.0
+## SavedVariables: OpenZygorGuideRecorderDB
+## IconTexture: Interface\Icons\INV_Misc_Book_09
+## Category-enUS: Quest
+## Category-ptBR: Missões
+
+Core.lua
+Util.lua
+Recorder.lua
+Exporter.lua
+UI.lua
+Slash.lua

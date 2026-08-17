@@ -148,7 +148,7 @@ accept Example Quest##98765 |goto Example Zone/0 42.12,55.81
 ]])
 ```
 
-## Próximas evoluções recomendadas
+## Próximas Implementações (TODO)
 
 - Editor visual de steps dentro do jogo
 - Sistema de aliases `mapID -> nome Zygor`
